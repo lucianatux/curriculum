@@ -265,11 +265,41 @@
 
   #city:hover{
     content: url('https://live.staticflickr.com/65535/52477063536_e04770fe87_z.jpg'); 
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
+    object-fit: contain;
     box-shadow: 5px 5px 10px black;
   }
+
+  #tateti:hover{
+    content: url('../assets/tat2.jpeg');
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+  #arbol:hover{
+    content: url('../assets/arbol1.jpeg'); 
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+  #ly:hover{
+    content: url('../assets/ly3.jpeg'); 
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+  #eco:hover{
+    content: url('../assets/eco2.jpeg'); 
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+  #frontera:hover{
+    content: url('../assets/front2.jpeg'); 
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+  #sim:hover{
+    content: url('../assets/sim2.jpeg'); 
+    object-fit: contain;
+    box-shadow: 5px 5px 10px black;
+  }
+
 
   /*-------Education-------*/
   #educacion >ul {
