@@ -9,7 +9,7 @@
 
 *{
     font-family: Marvel, sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -248,9 +248,9 @@
   }
 
   .project-tile > a > img{
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
     box-shadow: 2px 2px 5px black;
   }
 
@@ -286,7 +286,7 @@
 
   }
 
-  #famaf_img, #ticmas_img {
+  #famaf_img, #ticmas_img, #cui_img {
     object-fit:contain;
   }
 
