@@ -43,7 +43,7 @@ Este currículum vitae en formato de página web fue creado por Luciana Caminos 
 
 
 ### Licencia
-Este proyecto se encuentra bajo licencia. Consulta el archivo LICENSE para obtener más información.
+Este proyecto se encuentra bajo licencia GNU GENERAL PUBLIC LICENSE Version 3. Consulta el archivo LICENSE para obtener más información.
 
 
 
@@ -73,4 +73,4 @@ Bootstrap 5.3.0-alpha1: Website Font Awesome 5.8.2: Website Additionally, images
 This web page format resume was created by Luciana Caminos Cano as a personal project. You can contact me at lucianatux@yahoo.com.ar
 
 ### License
-This project is licensed. Please refer to the LICENSE file for more information.
+This project is licensed GNU GENERAL PUBLIC LICENSE Version 3. Please refer to the LICENSE file for more information.
